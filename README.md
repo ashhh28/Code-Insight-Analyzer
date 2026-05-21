@@ -8,13 +8,13 @@ This project simulates the core idea behind real-world tools like SonarQube, ESL
 #  What This Project Does
 Code Insight Analyzer reads a Java source file and generates a detailed report including:
 
-- 📄 Total lines of code
-- 🏗️ Number of classes and methods
-- 💬 Comment ratio analysis
-- 🧠 Cyclomatic complexity calculation
-- 📊 Code density measurement
-- 🧮 Final quality score (/100)
-- 💡 Improvement suggestions
+- Total lines of code
+- Number of classes and methods
+- Comment ratio analysis
+- Cyclomatic complexity calculation
+- Code density measurement
+- Final quality score (/100)
+- Improvement suggestions
 
 ---
 
